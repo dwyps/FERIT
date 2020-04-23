@@ -1,0 +1,6 @@
+D:\Student\Documents\Visual Studio 2013\Projects\LV2\LV2\bin\Debug\LV2.exe.config
+D:\Student\Documents\Visual Studio 2013\Projects\LV2\LV2\bin\Debug\LV2.exe
+D:\Student\Documents\Visual Studio 2013\Projects\LV2\LV2\bin\Debug\LV2.pdb
+D:\Student\Documents\Visual Studio 2013\Projects\LV2\LV2\obj\Debug\LV2.csprojResolveAssemblyReference.cache
+D:\Student\Documents\Visual Studio 2013\Projects\LV2\LV2\obj\Debug\LV2.exe
+D:\Student\Documents\Visual Studio 2013\Projects\LV2\LV2\obj\Debug\LV2.pdb
