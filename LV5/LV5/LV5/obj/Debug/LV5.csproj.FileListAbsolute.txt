@@ -1,0 +1,6 @@
+D:\Student\Documents\Visual Studio 2013\Projects\LV5\LV5\bin\Debug\LV5.exe.config
+D:\Student\Documents\Visual Studio 2013\Projects\LV5\LV5\obj\Debug\LV5.csprojResolveAssemblyReference.cache
+D:\Student\Documents\Visual Studio 2013\Projects\LV5\LV5\bin\Debug\LV5.exe
+D:\Student\Documents\Visual Studio 2013\Projects\LV5\LV5\bin\Debug\LV5.pdb
+D:\Student\Documents\Visual Studio 2013\Projects\LV5\LV5\obj\Debug\LV5.exe
+D:\Student\Documents\Visual Studio 2013\Projects\LV5\LV5\obj\Debug\LV5.pdb
