@@ -1,0 +1,6 @@
+D:\Student\Documents\Visual Studio 2013\Projects\LV6\LV6\bin\Debug\LV6.exe.config
+D:\Student\Documents\Visual Studio 2013\Projects\LV6\LV6\obj\Debug\LV6.csprojResolveAssemblyReference.cache
+D:\Student\Documents\Visual Studio 2013\Projects\LV6\LV6\bin\Debug\LV6.exe
+D:\Student\Documents\Visual Studio 2013\Projects\LV6\LV6\bin\Debug\LV6.pdb
+D:\Student\Documents\Visual Studio 2013\Projects\LV6\LV6\obj\Debug\LV6.exe
+D:\Student\Documents\Visual Studio 2013\Projects\LV6\LV6\obj\Debug\LV6.pdb
