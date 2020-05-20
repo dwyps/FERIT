@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\LV7\LV7\bin\Debug\LV7.exe.config
+C:\Users\Student\Desktop\LV7\LV7\bin\Debug\LV7.exe
+C:\Users\Student\Desktop\LV7\LV7\bin\Debug\LV7.pdb
+C:\Users\Student\Desktop\LV7\LV7\obj\Debug\LV7.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\LV7\LV7\obj\Debug\LV7.exe
+C:\Users\Student\Desktop\LV7\LV7\obj\Debug\LV7.pdb
